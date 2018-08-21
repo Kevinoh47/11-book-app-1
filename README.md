@@ -69,7 +69,7 @@ Your entire application will be deployed on Heroku with a PostgreSQL database pr
 
 ### Heroku deployoment
 
-- One person from your group should create an instance on Heroku. Refer to lecture 5 for a reminder on the steps, if needed. You will be working in this same instance for labs 11 thorugh 14.
+- One person from your group should create an instance on Heroku. You will be working in this same instance for labs 11 thorugh 14.
   - Follow the naming convention of `<partner 1 initials>-<partner 2 initials>-booklist`. For example, Allie and Sam's instance would be named `https://ag-sh-booklist.herokuapp.com` 
 - Provision a PostgreSQL database.
 - In the Deploy tab, connect your instance to your repository and enable automatic deploys from your master branch. Deploy your application and make sure there are no errors.
